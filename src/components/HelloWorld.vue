@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div>
       <div style="font-size:30px" align="center" >个人任务管理</div>
      <el-divider><i class="el-icon-mobile-phone"></i></el-divider>
@@ -139,7 +139,7 @@
 
     <el-tab-pane label="帮助" name="third" align="center">
       <div  align="center">
-        <el-link type="primary"  style="font-size:30px" href="https://github.com/nighty777/hello-world">更多内容请关注我的github</el-link>
+        <el-link type="primary"  style="font-size:30px" href="https://github.com/nighty777/Vue-PersonalTaskManagenment">更多内容请关注我的github</el-link>
   <span class="demonstration"></span>
   <el-rate v-model="ratevalue1" @click="isRate()"></el-rate>
   </div>
